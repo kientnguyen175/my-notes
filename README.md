@@ -4,5 +4,5 @@
   - Extensions:
     - Remote - SSH
     - Remote - SSH: Editing Configuration Files
-## Tools
+## 3. Tools
   - Mockups: Balsamiq
